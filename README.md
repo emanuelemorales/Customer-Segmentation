@@ -4,8 +4,8 @@ The aim of the project is to analyse data related to a wholesale distributor and
 
 The work is divided into three main parts:
 
--	a first part in which data are explored and outliers are identified by applying Mahalanobis distance. 
--	In the second part data dimensionality is reduced using Multidimensional Scaling and PCA techniques, in order to have proper visualization of data on a 2d/3d plot. 
--	Finally two techniques of clustering are applied to identify the type of customers: k-mean and model-based clustering. 
+-	Data exploration and identification of outliers through Mahalanobis distance. 
+-	Data dimensionality reduction:  Multidimensional Scaling and PCA techniques. 
+-	Clustering: k-mean and model-based clustering. 
 
 [Dataset Here](https://support.west-wind.com)
